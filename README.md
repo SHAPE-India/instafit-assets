@@ -1,0 +1,2 @@
+# instafit-assets
+Instafit Assets
